@@ -1,1 +1,1 @@
-Верстка по макету из фигмы, адаптив.
+https://github.com/maksimenkomv/slozhno-sosredotochitsya-fd
